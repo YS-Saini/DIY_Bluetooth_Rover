@@ -3,6 +3,8 @@
 
 This project involves creating a rover controlled via Bluetooth using an Arduino Mega/UNO, L298N motor driver, and an HC-05 Bluetooth module. The rover is equipped with 4 DC motors with gear ratios for movement control. The mobile app for controlling the rover was built using MIT App Inventor.
 
+![Alt Text](URL)
+
 ## Hardware Components
 
 - Arduino Mega/UNO
